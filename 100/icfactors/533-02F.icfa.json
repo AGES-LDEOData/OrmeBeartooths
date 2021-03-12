@@ -24,13 +24,13 @@
         "value": 1.0
     },
     "L2": {
-        "error": 2.1193433875895002e-11,
+        "error": 2.1080855304135308e-11,
         "fit": "Average",
         "references": [
             {
                 "exclude": "ok",
-                "record_id": "a-02-N-795",
-                "uuid": "a5e3f960-0e33-4477-9548-27d7b2b12569"
+                "record_id": "a-02-N-794",
+                "uuid": "f40de030-64ff-4e2c-ac7b-af2469c699c4"
             },
             {
                 "exclude": "ok",
@@ -294,21 +294,36 @@
             },
             {
                 "exclude": "ok",
-                "record_id": "a-02-N-848",
-                "uuid": "3ec81e1e-8c7e-4f52-9ca1-ee0b26176ced"
+                "record_id": "a-02-N-851",
+                "uuid": "f523b22a-5e00-42b9-8cf6-11578547d449"
             },
             {
                 "exclude": "ok",
-                "record_id": "a-02-N-849",
-                "uuid": "f47cb71d-e40e-4b22-b62d-54d31015eca1"
+                "record_id": "a-02-N-852",
+                "uuid": "4d05c380-f472-42b1-ae82-8c4c81267d4c"
             },
             {
                 "exclude": "ok",
-                "record_id": "a-02-N-850",
-                "uuid": "86adce9f-94b4-4acc-b21b-7f5aa9501865"
+                "record_id": "a-02-N-853",
+                "uuid": "272a6d2d-3f93-49d7-b47a-b2ef58a78aae"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-N-854",
+                "uuid": "5e35acf6-3aea-4b97-a3a3-890ec98909db"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-N-855",
+                "uuid": "39f9deb6-ec37-4be6-bebe-083f401d2e00"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-02-N-856",
+                "uuid": "7166653f-6451-404f-b597-a5da01147452"
             }
         ],
         "reviewed": true,
-        "value": 1.7245248298606612e-08
+        "value": 1.72498950281642e-08
     }
 }
